@@ -6,7 +6,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat.
 
->[Clique aqui para acessar](https://nathxrz.github.io/nlw-rocketseat/)
+> 🔗 [Clique aqui para acessar](https://nathxrz.github.io/nlw-rocketseat/)
 
 ## 🛠️ Tecnologias 
 - HTML
